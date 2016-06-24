@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_sort_asc">Sort By A-Z</string>
+    <string name="action_sort_desc">Sort By Z-A</string>
+    <string name="str_email">EMAIL</string>
+    <string name="str_username">USERNAME</string>
+    <string name="str_phone">PHONE</string>
+    <string name="str_address">ADDRESS</string>
+    <string name="str_website">WEBSITE</string>
+    <string name="str_company">COMPANY</string>
+    <string name="str_loading">Loading Contacts...</string>
+</resources>
